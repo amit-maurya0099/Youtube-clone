@@ -68,6 +68,10 @@ Contributions to YouTube Clone are welcome. If you have suggestions, find any bu
 
 ## Acknowledgments
 
-YouTube Clone was developed for educational purposes and as a showcase of web development skills. Special thanks to the creators of YouTube for providing such a fantastic platform, and to the open-source community for their valuable contributions to web development tools and libraries.  
+YouTube Clone was developed for educational purposes and as a showcase of web development skills. Special thanks to the creators of YouTube for providing such a fantastic platform, and to the open-source community for their valuable contributions to web development tools and libraries.
+
+## Authors
+
+- [amit maurya](https://www.github.com/amit-maurya0099)
 
 
