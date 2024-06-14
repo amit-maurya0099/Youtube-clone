@@ -2,6 +2,18 @@
 ![Screenshot 2024-06-14 112051](https://github.com/amit-maurya0099/Youtube-clone/assets/139799731/4718f542-e102-46f0-9b8f-3b9b068a859b)
 YouTube Clone is a web application that replicates the core features of YouTube, allowing users to watch and share videos . This project is built using modern web technologies to provide a familiar and user-friendly experience
 
+
+## Features
+
+- Search suggestions
+- Live Chat
+- Comments
+- Videos Playback
+- Toggled SideBar
+
+
+
+
 ## Getting Started
 
 To set up the YouTube Clone on your local machine, follow the instructions below.
@@ -16,7 +28,7 @@ To set up the YouTube Clone on your local machine, follow the instructions below
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/amit-maurya0099/Youtube-clone.git
 ```
 
 2. Navigate to the project directory:
@@ -38,15 +50,24 @@ npm install
 ```bash
 npm start
 ```
-
 2. Open your web browser and visit [http://localhost:3000](http://localhost:3000).
-![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/8a75d643-bcf6-4392-a65e-ccd1dec80298)
 
-![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/bd31d083-0469-4ef2-acb2-ff14f747280a)
+  
+## Built With
+- This project is build with HTML, CSS, javaScript, & ReactJS.
+- Tailwind Css is used for Styling.
+- Redux Library is used for state management.
+- youtube Data api v3 is used for fetching videos
 
 
-4. You can now search for videos, watch them, and share URLs with others.
+### Contributing
 
-### Configuration
+Contributions to YouTube Clone are welcome. If you have suggestions, find any bugs, or want to add new features, feel free to open an issue or submit a pull request.
 
-YouTube Clone uses a configuration file to manage certain settings. You can find the configuration file in `config.js` and modify the following options:
+
+
+## Acknowledgments
+
+YouTube Clone was developed for educational purposes and as a showcase of web development skills. Special thanks to the creators of YouTube for providing such a fantastic platform, and to the open-source community for their valuable contributions to web development tools and libraries.  
+
+
