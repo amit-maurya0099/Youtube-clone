@@ -12,6 +12,12 @@ YouTube Clone is a web application that replicates the core features of YouTube,
 - Toggled SideBar
 
 
+## Demo
+![Screenshot 2024-06-14 140317](https://github.com/amit-maurya0099/Youtube-clone/assets/139799731/9710e7fb-16c9-4876-a1fa-38c2eb9c61ef)
+![Screenshot 2024-06-14 140344](https://github.com/amit-maurya0099/Youtube-clone/assets/139799731/7efda0a8-743e-4251-9328-5a799b3c9235)
+![Screenshot 2024-06-14 140420](https://github.com/amit-maurya0099/Youtube-clone/assets/139799731/389f3d1c-d15e-40db-9f67-2980a84d776e)
+
+
 
 
 ## Getting Started
