@@ -6,7 +6,7 @@ YouTube Clone is a web application that replicates the core features of YouTube,
 ## Features
 
 - Search suggestions
-- Live Chat
+- Live Chat(with debouncing feature)
 - Comments
 - Videos Playback
 - Toggled SideBar
