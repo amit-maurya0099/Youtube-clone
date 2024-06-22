@@ -3,6 +3,9 @@
 YouTube Clone is a web application that replicates the core features of YouTube, allowing users to watch and share videos . This project is built using modern web technologies to provide a familiar and user-friendly experience
 
 
+## Note- Search Suggestion api stopped working so the search suggestion functionality is currently disabled
+
+
 ## Features
 
 - Search suggestions
