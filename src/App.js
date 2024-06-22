@@ -4,10 +4,10 @@ import Footer from "./components/Footer";
 import './App.css';
 import { Provider } from "react-redux";
 import store from "./utils/store";
-import { RouterProvider, createHashRouter } from "react-router-dom";
+import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import MainContainer from "./components/MainContainer";
 import WatchPage from "./components/WatchPage";
-const appRouter=createHashRouter([
+const appRouter=createBrowserRouter([
   {
     path:"/",
     element:<Body/>,
